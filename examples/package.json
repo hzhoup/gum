@@ -1,0 +1,9 @@
+{
+  "name": "@gum/examples",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build"
+  }
+}
