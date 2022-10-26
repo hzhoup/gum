@@ -1,0 +1,5 @@
+{
+  "root": true,
+  "extends": ["@gum"],
+  "ignorePatterns": ["examples/**/*"]
+}
