@@ -35,5 +35,9 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "packageManager": "pnpm@7.10.0",
+  "engines": {
+    "pnpm": ">=7.10"
   }
 }
